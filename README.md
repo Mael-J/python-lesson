@@ -1,1 +1,1 @@
-Lesson Python en Français
+Cours Python en Français
